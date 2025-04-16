@@ -3,6 +3,7 @@
 🧠 Project Title
 
 Inventory Insights & Breakage Trends in Beverage Supply Chain
+
 Course Project – SCH-MGMT 663: Supply Chain Analytics, UMass Amherst
 
 📌 Overview
