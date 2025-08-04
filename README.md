@@ -15,12 +15,12 @@ This project focuses on inventory optimization and breakage trend analysis for A
 • Deliver actionable insights through Excel-driven dashboards and visualizations
 
 **Key Findings**:
-Coors Light, Modelo, Stella Artois led in breakage counts — potential packaging or handling issues
-Breakage volumes peaked during COVID-19 (2020–2022), dropped in 2023
-Vodka topped inventory by volume; Patron Silver was highest in price
-Largest discount: Woodford Reserve at $183 off retail
-Non-beverage items (e.g., t-shirts) offer revenue diversification potential
-Datasets were successfully merged via Product Code, enabling unified reporting
+• Coors Light, Modelo, Stella Artois led in breakage counts — potential packaging or handling issues
+• Breakage volumes peaked during COVID-19 (2020–2022), dropped in 2023
+• Vodka topped inventory by volume; Patron Silver was highest in price
+• Largest discount: Woodford Reserve at $183 off retail
+• Non-beverage items (e.g., t-shirts) offer revenue diversification potential
+• Datasets were successfully merged via Product Code, enabling unified reporting
 
 **Tools & Techniques**:
 Microsoft Excel: Data cleaning, transformation, pivot charts, dashboards
