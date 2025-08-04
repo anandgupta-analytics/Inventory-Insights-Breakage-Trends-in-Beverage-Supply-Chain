@@ -8,11 +8,11 @@ Course Project – SCH-MGMT 663: Supply Chain Analytics, UMass Amherst
 This project focuses on inventory optimization and breakage trend analysis for Alcohol Beverage Services (ABS) using real supply chain data. The objective was to explore patterns in breakage, identify overstock risks, evaluate pricing and discount trends, and assess the feasibility of merging inventory and incident datasets for deeper business insights.
 
 **Objectives**:
-Analyze inventory and breakage patterns to identify cost drivers and operational gaps
-Explore seasonal breakage trends, high-discount items, and high-priced SKUs
-Identify non-beverage product expansion opportunities
-Evaluate SKU overlap between datasets using Product Code matching
-Deliver actionable insights through Excel-driven dashboards and visualizations
+• Analyze inventory and breakage patterns to identify cost drivers and operational gaps
+• Explore seasonal breakage trends, high-discount items, and high-priced SKUs
+• Identify non-beverage product expansion opportunities
+• Evaluate SKU overlap between datasets using Product Code matching
+• Deliver actionable insights through Excel-driven dashboards and visualizations
 
 **Key Findings**:
 Coors Light, Modelo, Stella Artois led in breakage counts — potential packaging or handling issues
