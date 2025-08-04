@@ -9,7 +9,6 @@ This project focuses on inventory optimization and breakage trend analysis for A
 
 **Objectives**:
 • Analyze inventory and breakage patterns to identify cost drivers and operational gaps
-
 • Explore seasonal breakage trends, high-discount items, and high-priced SKUs
 • Identify non-beverage product expansion opportunities
 • Evaluate SKU overlap between datasets using Product Code matching
@@ -24,10 +23,10 @@ This project focuses on inventory optimization and breakage trend analysis for A
 • Datasets were successfully merged via Product Code, enabling unified reporting
 
 **Tools & Techniques**:
-Microsoft Excel: Data cleaning, transformation, pivot charts, dashboards
-Power Query: Merge & join logic using Product Code
-Slicers & Conditional Formatting: Enhanced interactivity
-Custom KPIs: Breakage frequency, discount percentages, SKU classification
+• Microsoft Excel: Data cleaning, transformation, pivot charts, dashboards
+• Power Query: Merge & join logic using Product Code
+• Slicers & Conditional Formatting: Enhanced interactivity
+• Custom KPIs: Breakage frequency, discount percentages, SKU classification
 
 **Files Included**:
 Project_3_Report.pdf: Final written report
@@ -36,10 +35,10 @@ ABS_Store_Inventory_and_Sale_Items.xlsx: Inventory and pricing dataset
 Alcohol_Beverage_Services_Breakage_Inventory.xlsx: Breakage data across years
 
 **Real-World Use Cases**:
-Breakage cost forecasting and reduction
-Inventory turnover optimization
-ERP integration for SKU-level analysis
-Dashboards for executive supply chain reporting
+Breakage cost forecasting and reduction,
+Inventory turnover optimization,
+ERP integration for SKU-level analysis,
+Dashboards for executive supply chain reporting,
 Product assortment strategy & SKU rationalization
 
 **Author**:
