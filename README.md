@@ -9,6 +9,7 @@ This project focuses on inventory optimization and breakage trend analysis for A
 
 **Objectives**:
 • Analyze inventory and breakage patterns to identify cost drivers and operational gaps
+
 • Explore seasonal breakage trends, high-discount items, and high-priced SKUs
 • Identify non-beverage product expansion opportunities
 • Evaluate SKU overlap between datasets using Product Code matching
